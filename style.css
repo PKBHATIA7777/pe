@@ -433,3 +433,20 @@ footer {
         padding: 1.5rem;
     }
 }
+.whatsapp-float {
+    position: fixed;
+    bottom: 50px;
+    right: 35px;
+    z-index: 1000;
+  }
+
+  .whatsapp-icon {
+    width: 85px;
+    height: 85px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+  }
+
+  .whatsapp-icon:hover {
+    transform: scale(1.1);
+  }
