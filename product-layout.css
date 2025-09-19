@@ -1,0 +1,70 @@
+/* Custom Styles for Individual Product Pages (product-layout.css) */
+
+/* The main content area of the subpages starts after the fixed header */
+main {
+    padding-top: 80px;
+}
+
+/* Container for the image and text on the product pages */
+.product-detail-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 2rem;
+    align-items: flex-start; /* Aligns content to the top */
+    background-color: rgba(0, 0, 0, 0.7); /* Black with transparency, matching existing design */
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(255, 215, 0, 0.3); /* Golden shadow */
+    border: 1px solid #FFD700; /* Golden border */
+}
+
+/* Styling for the image block */
+.product-image-container {
+    flex: 1 1 350px; /* Allows image to be flexible but maintain a minimum width */
+    max-width: 400px; /* Maximum size for the image on larger screens */
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
+    border: 1px solid #FFD700;
+}
+
+.product-image-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+/* Styling for the text content block */
+.product-info-content {
+    flex: 2 1 450px; /* Allows info content to take up more space */
+    color: #FFFFFF;
+}
+
+/* Text styles (inherits from style.css, but ensuring list and table consistency) */
+.product-info-content h2, .product-info-content h3 {
+    color: #FFD700; /* Secondary color for headings */
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.product-info-content ul {
+    list-style-type: disc;
+    margin: 1rem 0 1rem 20px;
+}
+
+.product-info-content ul li {
+    margin-bottom: 0.5rem;
+}
+
+/* Responsive adjustment: stack the image and text on smaller screens */
+@media (max-width: 850px) {
+    .product-detail-container {
+        flex-direction: column;
+    }
+    .product-image-container {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+}
