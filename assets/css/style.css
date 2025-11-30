@@ -569,3 +569,11 @@ a:focus, button:focus {
     transform: translateY(0);
     opacity: 1;
 }
+
+
+
+
+
+.developer-contact{
+    color: var(--secondary-color);
+}

@@ -1,53 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://parthenterprises.org.in/</loc>
     <lastmod>2025-09-19</lastmod>
     <priority>1.0</priority>
   </url>
+
   <url>
-    <loc>https://parthenterprises.org.in/polyester-thread-manufacturers-faridabad.html</loc>
+    <loc>https://parthenterprises.org.in/products/polyester-thread-manufacturers-faridabad.html</loc>
     <lastmod>2025-09-19</lastmod>
     <priority>0.9</priority>
   </url>
+
   <url>
-    <loc>https://parthenterprises.org.in/motor-winding-thread-manufacturers-faridabad.html</loc>
+    <loc>https://parthenterprises.org.in/products/motor-winding-thread-manufacturers-faridabad.html</loc>
     <lastmod>2025-09-19</lastmod>
     <priority>0.9</priority>
   </url>
+
   <url>
-    <loc>https://parthenterprises.org.in/pvc-ferrule-faridabad.html</loc>
+    <loc>https://parthenterprises.org.in/products/pvc-ferrule-faridabad.html</loc>
     <lastmod>2025-09-19</lastmod>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://parthenterprises.org.in/pink-tape-faridabad.html</loc>
+    <loc>https://parthenterprises.org.in/products/pink-tape-faridabad.html</loc>
     <lastmod>2025-09-19</lastmod>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://parthenterprises.org.in/automatic-motor-winding-thread-manufacturers.html</loc>
+    <loc>https://parthenterprises.org.in/products/automatic-motor-winding-thread-manufacturers.html</loc>
     <lastmod>2025-09-19</lastmod>
     <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://parthenterprises.org.in/#products</loc>
-    <lastmod>2025-09-19</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://parthenterprises.org.in/#other-products</loc>
-    <lastmod>2025-09-19</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://parthenterprises.org.in/#about</loc>
-    <lastmod>2025-09-19</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://parthenterprises.org.in/#contact</loc>
-    <lastmod>2025-09-19</lastmod>
-    <priority>0.7</priority>
-  </url>
+
 </urlset>
